@@ -3,6 +3,6 @@ flask-cors
 requests
 pillow
 bs4
-google-generativeai
+google-genai
 newsapi-python
 python-dotenv
