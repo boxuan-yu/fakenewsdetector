@@ -97,4 +97,4 @@ def upload_image():
 
 if __name__ == "main":
     # Start the Flask development server
-    app.run(host="127.0.0.1", port=5000, debug=True)
+    app.run(host="127.0.0.1", debug=True)
