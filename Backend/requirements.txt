@@ -1,0 +1,8 @@
+Flask
+flask-cors
+requests
+pillow
+bs4
+google-generativeai
+newsapi-python
+python-dotenv
