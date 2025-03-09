@@ -24,7 +24,7 @@ const navbar = document.querySelector('.navbar');
 const navLinks = document.querySelectorAll('.navbar-nav .nav-link');
 
 // API endpoints - Update with proper backend URL
-const API_BASE_URL = 'http://127.0.0.1:5000';
+const API_BASE_URL = 'https://fakenewsdetectorserv.onrender.com';
 const VERIFY_URL_ENDPOINT = `${API_BASE_URL}/scrape`;
 const VERIFY_IMAGE_ENDPOINT = `${API_BASE_URL}/image`;
 

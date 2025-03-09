@@ -85,7 +85,5 @@ const server = http.createServer((req, res) => {
 
 // Start the server
 server.listen(PORT, () => {
-  console.log(`Server running at http://localhost:${PORT}/`);
-  console.log('Cache disabled for all responses.');
-  console.log('Press Ctrl+C to stop');
+  console.log(`Frontend Server running`);
 });
